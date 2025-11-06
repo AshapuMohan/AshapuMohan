@@ -9,9 +9,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on: **Fullstack projects using React, Node.js & Tailwind CSS**
-- 🌱 I’m learning: **Next.js, TypeScript, MongoDB, and advanced state management**
-- 💬 Ask me about: **React, Node.js, Tailwind CSS, and building clean, scalable applications**
-- 🛠️ I love creating: **Clone projects & fullstack apps that solve real-world problems**
+- 🌱 I’m learning: **Next.js, TypeScript, and advanced state management**
 - ⚡ Fun fact: I enjoy turning complex problems into elegant, reusable code
 
 ---
